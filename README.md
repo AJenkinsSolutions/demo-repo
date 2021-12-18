@@ -6,4 +6,6 @@ Some Description!
 
 My first time using github and ssh.
 
-How fun
+## local Devlopment 
+
+1. Open index.html in your browser 
